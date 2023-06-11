@@ -240,11 +240,8 @@ body {
     position: absolute;
     top: 10vh;
     padding: 10px;
-
     display: flex;
     flex-direction: column;
-    justify-content: center;
-
     position: fixed;
     height: 100%;
 }
