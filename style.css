@@ -237,7 +237,8 @@ body {
 
 .sidebar {
     width: 15vw;
-    height: 1vh;
+    position: absolute;
+    top: 10vh;
     padding: 10px;
 
     display: flex;
